@@ -2,8 +2,16 @@
 <p align="left">👋 Hola, soy Sammy Yarin</p>
 <p align="left">🚀 Desarrollador de software con 4 años de experiencia en aplicaciones Java en el sector fintech, con inglés intermedio.</p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/sammy-yarin/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+</div>
+
 ###
-<p align="left">✨ Entusiasta en tecnologías modernas<br>👀 Interesado en el desarrollo backend y móvil<br>🎯 Actualmente capacitándome en el desarrollo móvil con Kotlin y Jetpack Compose<br>
+
+<h3 align="left">👩‍💻  Sobre mí</h3>
+
+###
+<p align="left">✨ Entusiasta hacia tecnologías modernas<br>👀 Interesado en el desarrollo backend y móvil<br>🎯 Actualmente capacitándome en el desarrollo móvil con Kotlin y Jetpack Compose
 
 ###
 
@@ -24,6 +32,7 @@
   <img width="12" />
   <img width="12" />
   <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" height="40" alt="maven logo"  title="Thymeleaf"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
   height="40" alt="git logo" title="Git" />
       <img width="12" />
