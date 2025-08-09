@@ -3,19 +3,17 @@
 <p align="left">🚀 Desarrollador de software con 4 años de experiencia en aplicaciones Java en el sector fintech, con inglés intermedio.</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sammy-yarin/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/sammy-yarin/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
 
 ###
 
 <h3 align="left">👩‍💻  Sobre mí</h3>
-
-###
 <p align="left">✨ Entusiasta hacia tecnologías modernas<br>👀 Interesado en el desarrollo backend y móvil<br>🎯 Actualmente capacitándome en el desarrollo móvil con Kotlin y Jetpack Compose
 
 ###
 
-<h2 align="left">Tecnologías y Herramientas</h2>
+<h3 align="left">Tecnologías y Herramientas</h3>
 
 ###
 
