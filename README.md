@@ -35,10 +35,10 @@
   height="40" alt="git logo" title="Git" />
       <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" height="40" alt="jest logo"  title="Jira"/>
-  <img width="12" />
+<!--  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  title="Gradle"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo"  title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo"  title="Maven"/> -->
   <img width="12" />
   <img src="https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/apps/redhat.png" height="40" alt="redhat logo" title="RHEL" />
 
